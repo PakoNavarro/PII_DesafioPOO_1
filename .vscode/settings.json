@@ -1,0 +1,30 @@
+{
+    "cSpell.enabled": true,
+    "cSpell.language": "en,es",
+    "cSpell.words": [
+        "buildtransitive",
+        "contentfiles",
+        "coreclr",
+        "Desafio",
+        "Desafios",
+        "dotnet",
+        "Doxify",
+        "Doxyfile",
+        "github",
+        "LINQ",
+        "Liskov",
+        "msbuild",
+        "nunit",
+        "preconfiguradas",
+        "Pseudocódigo",
+        "stylecop"
+    ],
+    "cSpell.ignorePaths": [
+        "/.gitignore",
+    ],
+    "dotnet.defaultSolution": "Desafio.sln", // ← Renombrar para que coincida con la solución
+    "github.copilot.enable": {
+        "*": false
+    },
+    "githubPullRequests.codingAgent.codeLens": false,
+}
