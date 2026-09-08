@@ -18,9 +18,11 @@ namespace Ucu.Poo.Desafios
         /// </summary>
         public static void Main()
         {
-            // Agrega aquí un ejemplo que muestre la creación de un círculo y la
-            // impresión en la consola de su circunferencia y su área.
-            Console.WriteLine("Reemplaza esto por tu ejemplo");
+            Circle miCirculo = new Circle(10.0);
+
+            Console.WriteLine($"Perímetro: {miCirculo.GetPerimeter()}");
+            Console.WriteLine($"Area: {miCirculo.GetArea()}");
         }
     }
+    
 }
